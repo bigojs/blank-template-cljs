@@ -1,4 +1,4 @@
-## Bigojs Clojure Starter project
+## Bigojs Clojurescript Starter project
 ### Compile project
 In windows: 
 ```bash
