@@ -1,0 +1,15 @@
+{
+  "name": "bigojs-blank-cljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabrizio Delcompare",
+  "license": "ISC",
+  "dependencies": {
+    "bigojs": "^1.0.1"
+  }
+}
